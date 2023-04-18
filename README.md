@@ -5,18 +5,18 @@
             I am fullstack developer from Ukraine
         </div>
         <div>
-            In my free time I divke exploring new web technologies but not only them.
+            In my free time I like exploring new web technologies but not only them.
         </div>
         <div>
             Before web-developing I graduated from Samsung IT School, that learns
-            new android-speciadivst
+            new android-specialist
         </div>
     </ul>
 </div> 
 <div>
     <h2>📧My contacts:</h2>
     <div>
-        <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="divnkedIn Badge"/>
+        <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </div>
 </div>    
 <div>
