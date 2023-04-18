@@ -1,119 +1,118 @@
 <div>
     <h2>🧑About me:</h2>
     <ul>
-        <li>
+        <div>
             I am fullstack developer from Ukraine
-        </li>
-        <li>
-            In my free time I like exploring new web technologies but not only them.
-        </li>
-        <li>
+        </div>
+        <div>
+            In my free time I divke exploring new web technologies but not only them.
+        </div>
+        <div>
             Before web-developing I graduated from Samsung IT School, that learns
-            new android-specialist
-        </li>
+            new android-speciadivst
+        </div>
     </ul>
 </div> 
 <div>
     <h2>📧My contacts:</h2>
     <div>
-        <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
+        <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="divnkedIn Badge"/>
     </div>
 </div>    
 <div>
     <h2>💻Tech Stack:</h2>
     <hr>
-    <ul id="tech" style="display:flex; list-style: none; width: 100%; 
-                         justify-content: center; flex-wrap: wrap">
-        <li>
+    <ul id="tech">
+        <div>
             <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" 
                 alt="HTML">
-        </li>
-        <li>
+        </div>
+        <div>
             <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" 
                 alt="CSS">
-        </li>
-        <li>
+        </div>
+        <div>
             <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" 
                 alt="SASS">
-        </li>
-        <li>
+        </div>
+        <div>
             <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" 
                 alt="Webpack">
-        </li>
-        <li>
+        </div>
+        <div>
             <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" 
                 alt="Gulp">
-        </li>
-        <li>
+        </div>
+        <div>
             <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" 
                 alt="JS">
-        </li>
-        <li>
+        </div>
+        <div>
             <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" 
                 alt="TS">
-        </li>
-        <li>
+        </div>
+        <div>
             <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" 
                 alt="Angular">
-        </li>
-        <li>
+        </div>
+        <div>
             <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
                 alt="React">
-        </li>
-        <li>
+        </div>
+        <div>
             <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
                 alt="Redux">
-        </li>
-        <li>
+        </div>
+        <div>
             <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" 
                 alt="Vue">
-        </li>
-        <li>
+        </div>
+        <div>
             <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" 
                 alt="Firebase">
-        </li>
-        <li>
+        </div>
+        <div>
             <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
                 alt="NodeJS">
-        </li>
-        <li>
+        </div>
+        <div>
             <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
                 alt="Express">
-        </li>
-        <li>
+        </div>
+        <div>
             <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" 
                 alt="NestJS">
-        </li>
-        <li>
+        </div>
+        <div>
             <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" 
                 alt="MySQL">
-        </li>
-        <li>
+        </div>
+        <div>
             <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" 
                 alt="PostgreSQL">
-        </li>
-        <li>
+        </div>
+        <div>
             <img style="width: 50px; height: 50px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" 
                 alt="MongoDB">
-        </li>
+        </div>
     </ul>
 </div>
 
