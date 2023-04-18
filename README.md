@@ -24,6 +24,9 @@
     <hr>
     <div id="tech" align="center">
         <img style="width: 50px; height: 50px; margin-right:5px" 
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" 
+        alt="Git">
+        <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" 
         alt="HTML">
         <img style="width: 50px; height: 50px; margin-right:5px" 
