@@ -90,6 +90,9 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" 
                 alt="MongoDB">
     </div>
+    
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=De2Viator&hide_title=true)](https://github.com/De2Viator/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=De2Viator&layout=compact)](https://github.com/De2Viator/github-readme-stats)
 </div>
 
 
