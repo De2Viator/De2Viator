@@ -22,7 +22,7 @@
 <div>
     <h2>💻Tech Stack:</h2>
     <hr>
-    <ul id="tech" align="center">
+    <ul id="tech">
         <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" 
         alt="HTML">
