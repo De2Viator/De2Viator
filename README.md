@@ -22,7 +22,7 @@
 <div>
     <h2>💻Tech Stack:</h2>
     <hr>
-    <ul id="tech">
+    <div id="tech" align="center">
         <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" 
         alt="HTML">
@@ -32,6 +32,15 @@
         <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" 
                 alt="SASS">
+        <img style="width: 50px; height: 50px" 
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" 
+                alt="Bootstrap">
+        <img style="width: 50px; height: 50px" 
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" 
+                alt="Tailwind">
+        <img style="width: 50px; height: 50px" 
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-plain.svg" 
+                alt="Material">
         <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" 
                 alt="Webpack">
@@ -77,7 +86,7 @@
        <img style="width: 50px; height: 50px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" 
                 alt="MongoDB">
-    </ul>
+    </div>
 </div>
 
 
