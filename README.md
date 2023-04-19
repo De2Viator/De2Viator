@@ -80,6 +80,9 @@
         <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" 
                 alt="NestJS">
+        <img style="width: 50px; height: 50px; margin-right:5px" 
+                src="https://user-images.githubusercontent.com/62142146/208088732-e168fd64-3e48-4f48-b14d-9d91fa7d99f6.svg" 
+                alt="TypeORM">
          <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" 
                 alt="MySQL">
