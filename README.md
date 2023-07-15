@@ -36,6 +36,9 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" 
                 alt="SASS">
         <img style="width: 50px; height: 50px" 
+                src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" 
+                alt="LESS">
+        <img style="width: 50px; height: 50px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" 
                 alt="Bootstrap">
         <img style="width: 50px; height: 50px" 
