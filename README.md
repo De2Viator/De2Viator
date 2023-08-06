@@ -59,6 +59,9 @@
         <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" 
                 alt="TS">
+        <img style="width: 50px; height: 50px; margin-right: 5px" 
+                src="https://seeklogo.com/images/R/rxjs-logo-1C13E67498-seeklogo.com.png"
+                alt="RxJs"/>
         <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" 
                 alt="Angular">
