@@ -96,9 +96,6 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" 
                 alt="MongoDB">
         <img style="width: 50px; height: 50px" 
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" 
-                alt="MongoDB">
-        <img style="width: 50px; height: 50px" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
             alt="Redis"/>
     </div>
