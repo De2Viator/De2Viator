@@ -84,13 +84,13 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
                 alt="Express">
         <img style="width: 50px; height: 50px; margin-right:5px" 
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" 
+                src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" 
                 alt="NestJS">
         <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://user-images.githubusercontent.com/62142146/208088732-e168fd64-3e48-4f48-b14d-9d91fa7d99f6.svg" 
                 alt="TypeORM">
          <img style="width: 50px; height: 50px; margin-right:5px" 
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" 
+                src="https://www.svgrepo.com/show/354099/mysql.svg" 
                 alt="MySQL">
         <img style="width: 50px; height: 50px; margin-right:5px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" 
