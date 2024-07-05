@@ -42,7 +42,7 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" 
                 alt="Bootstrap">
         <img style="width: 50px; height: 50px" 
-                src="https://www.svgrepo.com/show/333609/tailwind-css.svg" 
+                src="https://raw.githubusercontent.com/tomowang/hugo-theme-tailwind/main/static/logo.svg" 
                 alt="Tailwind">
         <img style="width: 50px; height: 50px" 
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-plain.svg" 
